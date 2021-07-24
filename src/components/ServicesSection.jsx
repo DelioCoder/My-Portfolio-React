@@ -4,7 +4,7 @@ import ServicesSectionItems from './ServicesSectionItems';
 
 import styled from 'styled-components';
 
-import { MdDesktopMac, MdCode, MdPhonelinkSetup } from 'react-icons/md';
+import { MdDesktopMac, MdCode } from 'react-icons/md';
 
 const ServicesItemStyles = styled.div`
     padding: 10rem 0;
