@@ -162,7 +162,7 @@ export default function HeroSection() {
                     </div>
                     <div className="hero__info">
                         <PText>
-                        Estoy trabajando como freelance web designer y desarrollador por 1 año.
+                        Trabajo como freelance web designer y development por 1 año.
                         Amo diseñar y crear paginas web y servidores con Javascript y algo de php.
                         </PText>
                         <Button btnLink="/projects" btnText="see my work" outline={false} />

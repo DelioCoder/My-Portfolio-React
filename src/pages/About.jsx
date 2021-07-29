@@ -97,7 +97,9 @@ export default function About() {
                             <br /> <br />
                             Es ahí donde conocí muchos lenguajes de programación tanto para el desarrollo del front-end y back-end, pero fue un lenguaje y sus frameworks el cual me llamo mucho más la atención que los demas y quede 'enamorado', y ese fue JavaScript! y desde ese día decidi ser desarrollador javascript. 🌟
                             <br /> <br />
-                            Obviamente, Sigo desarrollando sistemas con PHP y sigo aprendiendo mas sobre otras tecnologías como lo es Python 🐍 ya que pienso que aún hay muchas opciones en el mundo de la programación para crear sistemas. 👨‍💻 👨‍💻
+                            Sigo desarrollando sistemas con PHP y sigo aprendiendo mas sobre otras tecnologías como lo es Python 🐍 ya que pienso que aún hay muchas opciones en el mundo de la programación para crear sistemas. 👨‍💻 👨‍💻
+                            <br /> <br/>
+                            Pero siento que con Javascript(BackEnd y FrontEnd) me desenvuelvo mas.
                             </PText>
                         </div>
                             <a href={pdf} className="button" download><i className="fas fa-file-pdf" style={{color: 'black'}}></i> Descargar CV </a>
@@ -127,7 +129,7 @@ export default function About() {
                             <AboutInfoItem 
                                 title="BackEnd"
                                 items={[
-                                    'NodeJS (Express)', 'PHP', 'Python'
+                                    'NodeJS (Express)', 'PHP'
                                 ]}
                             />
                             <AboutInfoItem 
