@@ -55,7 +55,7 @@ export default function ProjectItem({
                     <h3 className="projectItem__title">{title}</h3>
                 </Link>
                 <p className="projectItem__desc">
-                    {desc} <i class="fas fa-arrow-right"></i> <a href={link} className="link" >Site</a> (Disculpa si algunos demoran en abrir :'c')
+                    {desc} <i class="fas fa-arrow-right"></i> <a href={link} className="link" >Site</a>
                 </p>
             </div>
         </ProjectItemStyles>
