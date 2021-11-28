@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/My-Portfolio-React/static/js/main.519d60cf.chunk.js",
-    "main.js.map": "/My-Portfolio-React/static/js/main.519d60cf.chunk.js.map",
+    "main.js": "/My-Portfolio-React/static/js/main.2575c100.chunk.js",
+    "main.js.map": "/My-Portfolio-React/static/js/main.2575c100.chunk.js.map",
     "runtime-main.js": "/My-Portfolio-React/static/js/runtime-main.660ee9af.js",
     "runtime-main.js.map": "/My-Portfolio-React/static/js/runtime-main.660ee9af.js.map",
     "static/css/2.86c28b9a.chunk.css": "/My-Portfolio-React/static/css/2.86c28b9a.chunk.css",
@@ -11,7 +11,7 @@
     "static/css/2.86c28b9a.chunk.css.map": "/My-Portfolio-React/static/css/2.86c28b9a.chunk.css.map",
     "static/js/2.a88a38da.chunk.js.LICENSE.txt": "/My-Portfolio-React/static/js/2.a88a38da.chunk.js.LICENSE.txt",
     "static/media/About-img.8d1838ef.png": "/My-Portfolio-React/static/media/About-img.8d1838ef.png",
-    "static/media/DAVID_CV.76f834d5.pdf": "/My-Portfolio-React/static/media/DAVID_CV.76f834d5.pdf",
+    "static/media/DAVID_CV.4ab84f4d.pdf": "/My-Portfolio-React/static/media/DAVID_CV.4ab84f4d.pdf",
     "static/media/David2.b8a5ef70.png": "/My-Portfolio-React/static/media/David2.b8a5ef70.png",
     "static/media/Montserrat-Bold.079ca05d.ttf": "/My-Portfolio-React/static/media/Montserrat-Bold.079ca05d.ttf",
     "static/media/Montserrat-SemiBold.fa8441f3.ttf": "/My-Portfolio-React/static/media/Montserrat-SemiBold.fa8441f3.ttf",
@@ -31,6 +31,6 @@
     "static/js/runtime-main.660ee9af.js",
     "static/css/2.86c28b9a.chunk.css",
     "static/js/2.a88a38da.chunk.js",
-    "static/js/main.519d60cf.chunk.js"
+    "static/js/main.2575c100.chunk.js"
   ]
 }
