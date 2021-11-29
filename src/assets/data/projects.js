@@ -6,6 +6,7 @@ import Red from '../images/red-social.png';
 import Netflix from '../images/Netflix.png';
 import Senati from '../images/Senati.png';
 import Anime from '../images/anime.png';
+import Angular_1 from '../images/A12_1.png';
 
 const projects = [
   {
@@ -56,6 +57,14 @@ const projects = [
     img: Anime,
     link: 'https://anime-search-api-jikan.herokuapp.com/',
   },
+  {
+    id: uuidv4(),
+    name: 'Gifs search(Angular 12)',
+    desc:
+      'Buscador de Gifs con: Angular 12 y css(Bootstrap)',
+    img: Angular_1,
+    link: 'https://ecstatic-bose-69176e.netlify.app/',
+  }
 ];
 
 export default projects;
