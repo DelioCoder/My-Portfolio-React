@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/My-Portfolio-React/static/js/main.c65bfc19.chunk.js",
-    "main.js.map": "/My-Portfolio-React/static/js/main.c65bfc19.chunk.js.map",
+    "main.js": "/My-Portfolio-React/static/js/main.61d9e513.chunk.js",
+    "main.js.map": "/My-Portfolio-React/static/js/main.61d9e513.chunk.js.map",
     "runtime-main.js": "/My-Portfolio-React/static/js/runtime-main.660ee9af.js",
     "runtime-main.js.map": "/My-Portfolio-React/static/js/runtime-main.660ee9af.js.map",
     "static/css/2.86c28b9a.chunk.css": "/My-Portfolio-React/static/css/2.86c28b9a.chunk.css",
@@ -12,26 +12,26 @@
     "static/js/2.a88a38da.chunk.js.LICENSE.txt": "/My-Portfolio-React/static/js/2.a88a38da.chunk.js.LICENSE.txt",
     "static/media/A12_1.ccb8d410.png": "/My-Portfolio-React/static/media/A12_1.ccb8d410.png",
     "static/media/About-img.8d1838ef.png": "/My-Portfolio-React/static/media/About-img.8d1838ef.png",
-    "static/media/DAVID_CV.4ab84f4d.pdf": "/My-Portfolio-React/static/media/DAVID_CV.4ab84f4d.pdf",
-    "static/media/David2.b8a5ef70.png": "/My-Portfolio-React/static/media/David2.b8a5ef70.png",
+    "static/media/DAVID.942bc870.pdf": "/My-Portfolio-React/static/media/DAVID.942bc870.pdf",
     "static/media/Montserrat-Bold.079ca05d.ttf": "/My-Portfolio-React/static/media/Montserrat-Bold.079ca05d.ttf",
     "static/media/Montserrat-SemiBold.fa8441f3.ttf": "/My-Portfolio-React/static/media/Montserrat-SemiBold.fa8441f3.ttf",
     "static/media/Netflix.bb4d3d96.png": "/My-Portfolio-React/static/media/Netflix.bb4d3d96.png",
     "static/media/RobotoMono-Regular.418a8f9f.ttf": "/My-Portfolio-React/static/media/RobotoMono-Regular.418a8f9f.ttf",
     "static/media/Senati.34dc6ad4.png": "/My-Portfolio-React/static/media/Senati.34dc6ad4.png",
     "static/media/Shopping.dc1a38da.png": "/My-Portfolio-React/static/media/Shopping.dc1a38da.png",
-    "static/media/about.00658fbd.png": "/My-Portfolio-React/static/media/about.00658fbd.png",
+    "static/media/about_img.474e466d.jpg": "/My-Portfolio-React/static/media/about_img.474e466d.jpg",
     "static/media/anime.04e8ce01.png": "/My-Portfolio-React/static/media/anime.04e8ce01.png",
     "static/media/covid-tracker.fc9978b1.png": "/My-Portfolio-React/static/media/covid-tracker.fc9978b1.png",
+    "static/media/david_ga.a3647569.jpg": "/My-Portfolio-React/static/media/david_ga.a3647569.jpg",
     "static/media/projectImg.771236e1.png": "/My-Portfolio-React/static/media/projectImg.771236e1.png",
     "static/media/red-social.35c29091.png": "/My-Portfolio-React/static/media/red-social.35c29091.png",
-    "static/media/scroll-down-arrow.b013ca45.svg": "/My-Portfolio-React/static/media/scroll-down-arrow.b013ca45.svg",
-    "static/media/social-media-arrow.f5e093ce.svg": "/My-Portfolio-React/static/media/social-media-arrow.f5e093ce.svg"
+    "static/media/scroll-down-arrow.8ad25c53.svg": "/My-Portfolio-React/static/media/scroll-down-arrow.8ad25c53.svg",
+    "static/media/social-media-arrow.ecc0133c.svg": "/My-Portfolio-React/static/media/social-media-arrow.ecc0133c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.660ee9af.js",
     "static/css/2.86c28b9a.chunk.css",
     "static/js/2.a88a38da.chunk.js",
-    "static/js/main.c65bfc19.chunk.js"
+    "static/js/main.61d9e513.chunk.js"
   ]
 }
