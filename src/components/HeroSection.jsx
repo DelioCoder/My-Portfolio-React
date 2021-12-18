@@ -1,7 +1,7 @@
 import React from 'react';
 
 //ASSETS
-import HeroImg from '../assets/images/David2.png';
+import HeroImg from '../assets/images/david_ga.jpg';
 import SocialMediaArrow from '../assets/images/social-media-arrow.svg';
 import ScrollDownArrow from '../assets/images/scroll-down-arrow.svg';
 
@@ -163,7 +163,7 @@ export default function HeroSection() {
                     <div className="hero__info">
                         <PText>
                         Trabajo como freelance web designer y development por 1 año.
-                        Amo diseñar y crear paginas web y servidores con Javascript y algo de php.
+                        Amo diseñar y crear paginas web y servidores.
                         </PText>
                         <Button btnLink="/projects" btnText="see my work" outline={false} />
                     </div>

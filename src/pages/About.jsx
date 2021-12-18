@@ -1,8 +1,8 @@
 import React from 'react';
 import PText from '../components/PText';
-import AboutImg from '../assets/images/about.png';
+import AboutImg from '../assets/images/about_img.jpg';
 import styled from 'styled-components';
-import pdf from '../assets/pdf/DAVID_CV.pdf';
+import pdf from '../assets/pdf/DAVID.pdf';
 import AboutInfoItem from '../components/AboutInfoItem';
 
 const AboutPageStyles = styled.div`
@@ -123,7 +123,7 @@ export default function About() {
                             <AboutInfoItem 
                                 title="FrontEnd"
                                 items={[
-                                    'HTML', 'CSS (Bootstrap, Semantic UI, Material UI)', 'Javascript', 'React'
+                                    'HTML', 'CSS (Bootstrap, Semantic UI, Material UI)', 'Javascript:', 'React', 'Angular'
                                 ]}
                             />
                             <AboutInfoItem 
