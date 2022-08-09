@@ -89,7 +89,7 @@ export default function ProjectsSection() {
                         }}
                     >
                     {
-                        projects.map((project, index) => {
+                        projects.map((project) => {
                             
                             return(
                                 <SwiperSlide key={project.id}>

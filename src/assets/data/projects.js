@@ -31,7 +31,7 @@ const projects = [
     desc:
       'Red social usando el stack MERN junto con la maravilloso lenguaje de consultas: GraphQl(Apollo)',
     img: Red,
-    link: 'https://thirsty-engelbart-d95484.netlify.app/',
+    link: 'https://symphonious-sawine-50e3f3.netlify.app/',
   },
   {
     id: uuidv4(),
