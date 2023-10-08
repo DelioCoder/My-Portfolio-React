@@ -1,7 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import NavMenu from './components/NavMenu';
-import SmoothScrollbar from './components/SmoothScrollbar';
 
 import Home from './pages/Home';
 import About from './pages/About';
@@ -14,7 +13,6 @@ function App() {
     <>
       <Router>
         <NavMenu />
-        <SmoothScrollbar>
           <Switch>
             <Route path="/about" component={About} />
             <Route path="/projects" component={Projects} />
@@ -22,7 +20,7 @@ function App() {
             <Route path="/" component={Home}  />
           </Switch>
           <Footer />
-        </SmoothScrollbar>
+
       </Router>
     </>
   );

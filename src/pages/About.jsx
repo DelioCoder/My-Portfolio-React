@@ -95,11 +95,9 @@ export default function About() {
                             <PText>
                             Mi vida con la tecnología empezó desde una temprana edad, pero fue mucho después que quede templado por la programación, en especial, por la programación web. 
                             <br /> <br />
-                            Es ahí donde conocí muchos lenguajes de programación tanto para el desarrollo del front-end y back-end, pero fue un lenguaje y sus frameworks el cual me llamo mucho más la atención que los demas y quede 'enamorado', y ese fue JavaScript! y desde ese día decidi ser desarrollador javascript. 🌟
-                            <br /> <br />
-                            Sigo desarrollando sistemas con PHP y sigo aprendiendo mas sobre otras tecnologías como lo es Python 🐍 ya que pienso que aún hay muchas opciones en el mundo de la programación para crear sistemas. 👨‍💻 👨‍💻
+                            Es ahí donde conocí muchos lenguajes de programación tanto para el desarrollo del front-end y back-end. Pero fui aprendiendo uno en concreto, y era Javascript, donde desarrollo aplicaciones web y movil usando sus librerías y frameworks 🌟
                             <br /> <br/>
-                            Pero siento que con Javascript(BackEnd y FrontEnd) me desenvuelvo mas.
+                            Asimismo, sigo explorando otros lenguajes como Java, para poder mayor conocimiento en el mundo de la progrmación.
                             </PText>
                         </div>
                             <a href={pdf} className="button" download><i className="fas fa-file-pdf" style={{color: 'black'}}></i> Descargar CV </a>
@@ -114,7 +112,19 @@ export default function About() {
                             <AboutInfoItem 
                                 title="Instituto"
                                 items={[
-                                    'SENATI'
+                                    'SENATI | Desarrollo de Software | 2019 - 2021',
+                                ]}
+                            />
+                            <AboutInfoItem 
+                                title="Instituto"
+                                items={[
+                                    'ICPNA  | Ingles | 2020 - Intermedio'
+                                ]}
+                            />
+                            <AboutInfoItem 
+                                title="Universidad"
+                                items={[
+                                    'Universidad Tecnológica del Perú  | Ingeniería de Software | 2022 - En curso'
                                 ]}
                             />
                         </div>
@@ -123,13 +133,13 @@ export default function About() {
                             <AboutInfoItem 
                                 title="FrontEnd"
                                 items={[
-                                    'HTML', 'CSS (Bootstrap, Semantic UI, Material UI)', 'Javascript:', 'React', 'Angular'
+                                    'HTML', 'CSS (Bootstrap, Material UI, Tailwind CSS)', 'Javascript:', 'React', 'Angular'
                                 ]}
                             />
                             <AboutInfoItem 
                                 title="BackEnd"
                                 items={[
-                                    'NodeJS (Express)', 'PHP'
+                                    'JavaScript: NodeJS', 'Java: SpringFramework - SpringBoot'
                                 ]}
                             />
                             <AboutInfoItem 
@@ -144,10 +154,11 @@ export default function About() {
                             <AboutInfoItem 
                                 title="2018"
                                 items={[
-                                    'Diseñador web'
+                                    'Elioimport: Programador Web Freelance '
                                 ]}
                             />
                         </div>
+
                     </div>
                 </div>
                 

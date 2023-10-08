@@ -1,10 +1,11 @@
 import { v4 as uuidv4 } from 'uuid';
 
 import Shopping from '../images/Shopping.png';
-import Covid from '../images/covid-tracker.png';
 import Red from '../images/red-social.png';
 import Netflix from '../images/Netflix.png';
-import Senati from '../images/Senati.png';
+import Dashboard_temp from '../images/Dashboard_temp.png';
+import Seiko from '../images/Seiko.png';
+import Maps_Angular from '../images/Maps_Angular.png';
 import Anime from '../images/anime.png';
 import Angular_1 from '../images/A12_1.png';
 
@@ -15,15 +16,15 @@ const projects = [
     desc:
       'Un E-commerce hecho con ReactJs w/Redux del lado del cliente, Y Node w/ExpressJS como lado del servidor junto con MongoDB w/MongoDB Atlas',
     img: Shopping,
-    link: 'https://shopping-react-redux.herokuapp.com/',
+    link: 'https://effulgent-frangipane-145685.netlify.app/',
   },
   {
     id: uuidv4(),
-    name: 'Covid-19-Tracker',
+    name: 'Dashboard de Temperatura y Humedad',
     desc:
-      'Una aplicación web que provee personas infectadas, recuperadas y fallecidas por covid 19.',
-    img: Covid,
-    link: 'https://modest-bhabha-99d59a.netlify.app/',
+      'Proyecto para mi curso de Arquitectura de Computadoras de la Universidad. Trata sobre una aplicación web que provee un pequeño dashboard de la temperatura y humedad conectada a una base de datos en la nube.',
+    img: Dashboard_temp,
+    link: 'https://astounding-travesseiro-3a604c.netlify.app/',
   },
   {
     id: uuidv4(),
@@ -35,19 +36,27 @@ const projects = [
   },
   {
     id: uuidv4(),
+    name: 'Seiko Hub',
+    desc:
+      'Sitio web que permite la subida de videos donde se puede interactuar con los usuarios. (No accesible por seguridad xD se puede ver en mi github)',
+    img: Seiko,
+    link: '',
+  },
+  {
+    id: uuidv4(),
+    name: 'Mapas con Angular',
+    desc:
+      'Aplicación web que muestra la ubicación en tiempo real del usuario. También, permite buscar direciones y colocar indicaciones en pantalla.',
+    img: Maps_Angular,
+    link: 'https://angular-maps-chapter.netlify.app/',
+  },
+  {
+    id: uuidv4(),
     name: "Netflix Clone",
     desc:
       'Solo Interfaz de Netflix con: ReactJS, Firebase y MovieDB API',
     img: Netflix,
     link: 'http://sleepy-crate.surge.sh/',
-  },
-  {
-    id: uuidv4(),
-    name: 'Biblioteca PIM - SENATI',
-    desc:
-      'Pagina para mostrar, registrar, editar y eliminar proyectos para estudiantes de SENATI con: Html, Css(Bootstrap), Javascript(AJAX) y Php(MVC)',
-    img: Senati,
-    link: 'https://sistema-pim.000webhostapp.com/',
   },
   {
     id: uuidv4(),

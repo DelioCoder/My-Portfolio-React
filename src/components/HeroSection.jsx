@@ -1,7 +1,7 @@
 import React from 'react';
 
 //ASSETS
-import HeroImg from '../assets/images/david_ga.jpg';
+import HeroImg from '../assets/images/yo.jpg';
 import SocialMediaArrow from '../assets/images/social-media-arrow.svg';
 import ScrollDownArrow from '../assets/images/scroll-down-arrow.svg';
 
@@ -45,6 +45,13 @@ const HeroStyles = styled.div`
   }
   .hero__info {
       margin-top: -18rem;
+      .description{
+        max-width: 500px;
+        margin: 0 auto;
+        font-size: 1.8rem;
+        line-height: 1.3em;
+        color: black;
+      }
   }
   .hero__social,
   .hero__scrollDown {
@@ -161,10 +168,10 @@ export default function HeroSection() {
                         <img src={HeroImg} alt="" />
                     </div>
                     <div className="hero__info">
-                        <PText>
-                        Trabajo como freelance web designer y development por 1 año.
-                        Amo diseñar y crear paginas web y servidores.
-                        </PText>
+                        <p className='description'>
+                        Tecnico en desarrollo de software.
+                        Asimismo, amo diseñar y crear paginas web y servidores.
+                        </p>
                         <Button btnLink="/projects" btnText="see my work" outline={false} />
                     </div>
                     <div className="hero__social">
@@ -176,7 +183,7 @@ export default function HeroSection() {
                             <ul>
                                 <li>
                                     <a 
-                                        href="https://github.com/ProgrammingGeek02" 
+                                        href="https://github.com/DelioCoder" 
                                         target="_blank" 
                                         rel="noreferrer" 
                                     ><i className="fab fa-github"></i></a>

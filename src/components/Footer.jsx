@@ -122,11 +122,11 @@ export default function Footer() {
                             [
                                 {
                                     title: 'Github',
-                                    path: 'https://github.com/ProgrammingGeek02',
+                                    path: 'https://github.com/DelioCoder',
                                 },
                                 {
                                     title: 'Linkedin',
-                                    path: 'https://www.linkedin.com/in/david-saavedra-1b395b203/'
+                                    path: 'https://www.linkedin.com/in/david-saavedra-5a3406262/'
                                 }
                             ]
                         }

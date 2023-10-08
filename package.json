@@ -1,5 +1,5 @@
 {
-  "homepage": "http://ProgrammingGeek02.github.io/My-Portfolio-React",
+  "homepage": "http://DelioCoder.github.io/My-Portfolio-React",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
@@ -12,9 +12,7 @@
     "react-icons": "^4.2.0",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
-    "react-smooth-scrollbar": "^8.0.6",
     "react-transition-group": "^4.4.2",
-    "smooth-scrollbar": "^8.6.2",
     "styled-components": "^5.3.0",
     "swiper": "^6.7.1",
     "uuid": "^8.3.2",
